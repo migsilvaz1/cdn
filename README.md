@@ -1,0 +1,2 @@
+# cdn
+repo para estaticos
